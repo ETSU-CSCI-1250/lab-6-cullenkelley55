@@ -1,4 +1,15 @@
-﻿
+
+// validation
+// lab 6
+// Cullen Kelley kellec2@etsu.edu
+// csci 1250-001
+// 10-25-22
+// homewoek 6
+
+
+
+
+
 ShowCharacter("new york", 2);
 
 CalculateRetail();
