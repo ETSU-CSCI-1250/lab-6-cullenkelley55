@@ -1,10 +1,9 @@
 
-// validation
+// homework 6
 // lab 6
 // Cullen Kelley kellec2@etsu.edu
 // csci 1250-001
 // 10-25-22
-// homewoek 6
 
 
 
